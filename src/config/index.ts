@@ -18,6 +18,7 @@ export const PRODUCT_CATEGORIES = [
                 href: '#',
                 imageSource: "/nav/ui-kits/purple.jpg"
             },
+           
         ]
     },
     {
